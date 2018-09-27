@@ -19,13 +19,19 @@ h2 {
 .guarantee {
 	border-color: black;/*цвет границы*/
 	border-width: 1px;/*ширина*/
-	border-style: solid;/*сплошная*/
+	border-style: dashed;/**/
+	border-color: white;
 	background-color: #a7cece;/*фоновый цвет*/
 	padding: 25px;/*отступы*/
+	padding-left: 80px;/*отступ с левой стороны*/
 	margin: 30px;/*поля*/
+	margin-right: 250px;
 	line-height: 1.9em;
 	font-style: italic;
 	color: #444444;
 	font-family: Georgia, Times New Roman, Times, serif;
+	background-image: url(../images/background.gif);/*фоновый рисунок для элементов*/
+	background-repeat: no-repeat;
+	background-position: top left;
 
 }
