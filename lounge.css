@@ -16,7 +16,7 @@ h2 {
 	font-size: 130%;
 }
 
-.guarantee {
+#guarantee {
 	border-color: black;/*цвет границы*/
 	border-width: 1px;/*ширина*/
 	border-style: dashed;/**/
@@ -35,3 +35,4 @@ h2 {
 	background-position: top left;
 
 }
+
